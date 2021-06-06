@@ -40,6 +40,11 @@
   transform: rotateY(180deg);
 }
 
-.timeline-panel {
+.timeline-heading {
 	text-align: center;
 }
+
+.timeline-body {
+	text-align: center;
+}
+
