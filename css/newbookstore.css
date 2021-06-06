@@ -44,7 +44,7 @@
 	text-align: center;
 }
 
-.timeline-body {
+.timeline-body > p {
 	text-align: center;
 }
 
