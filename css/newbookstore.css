@@ -39,3 +39,7 @@
   color: white;
   transform: rotateY(180deg);
 }
+
+.h4.subheading {
+	text-align: center;
+}
